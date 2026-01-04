@@ -2,7 +2,7 @@
 
 
 ## 📌 Project Description
-This repository contains a **fully developed and working implementation** of a user-controlled
+This repository contains a **fully developed and working implementation** of a ai driven safe 
 data migration system with **automatic error detection, alerting, and resume capability**.
 
 The complete source code for the system is provided below in this repository and is
