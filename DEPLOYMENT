@@ -1,0 +1,3 @@
+python -m smtpd -c DebuggingServer -n localhost:1025
+python setup_db.py
+python migrate.py
